@@ -10,7 +10,7 @@ import java.math.BigDecimal;
 import java.util.Date;
 
 @Entity
-@Table(name = "produto")
+@Table(name = "PRODUTO")
 public class Produto extends PanacheEntity {
 
     public String nome;
